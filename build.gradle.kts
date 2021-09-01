@@ -3,8 +3,8 @@ plugins {
     id("maven")
 }
 
-group = "io.github.scottnj"
-version = "0.0.2"
+group = "com.github.scottnj"
+version = "0.0.3"
 
 repositories {
     mavenCentral()

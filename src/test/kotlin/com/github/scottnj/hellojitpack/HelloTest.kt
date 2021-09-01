@@ -1,4 +1,4 @@
-package io.github.scottnj.hellojitpack
+package com.github.scottnj.hellojitpack
 
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test
